@@ -7,7 +7,7 @@
 This repository contains the backend source code for **G-Scores**, a platform to query and analyze student scores from the 2024 Vietnam National High School Exam.
 The backend is built with **Laravel 10** and **MySQL 8.0**, exposing RESTful APIs for score lookup, statistics, and top student listings. The project supports both local development and production deployment via Docker.
 
-## 🌐 Product: [https://gscores.vercel.app](https://g-scores.vercel.app)
+## 🌐 Product: [https://fe-gscores.vercel.app](https://fe-gscores.vercel.app)
 
 ## ✨ Features
 
